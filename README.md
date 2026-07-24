@@ -4,8 +4,6 @@
 
 ### AI-Powered Alternative Credit Scoring & Conversational Micro-Investment Advisor
 
-<img src="assets/logo.png" width="180"/>
-
 ### 🏆 TetraTHON 2026 | FinTech Track
 
 Built by **Team NeuralNova**
